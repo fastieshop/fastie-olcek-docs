@@ -6,7 +6,7 @@ description: Fastie Ölçek tarayıcı uzantısının resmî kullanım, gizlilik
 
 Fastie Ölçek, ürün ölçülerini günlük hayattan tanıdığınız nesnelerle **aynı matematiksel ölçekte** yan yana gösteren ücretsiz bir tarayıcı uzantısıdır. Uzunluk ve çap/genişlik değerlerini girerek ölçü farkını daha kolay canlandırabilirsiniz.
 
-[Fastieshop'u ziyaret edin](https://www.fastieshop.com/) · [Edge için edinin](https://microsoftedge.microsoft.com/addons/detail/jlmbocielopnmeiipjmcggklfgjecoge) · [Firefox için edinin](https://addons.mozilla.org/addon/fastie-olcek/) · [Telegram duyuru kanalı](https://t.me/fastieshopcom)
+[Chrome için edinin](https://chromewebstore.google.com/detail/naipbaoidoagbbamcljejgjnholbddpa) · [Edge için edinin](https://microsoftedge.microsoft.com/addons/detail/jlmbocielopnmeiipjmcggklfgjecoge) · [Firefox için edinin](https://addons.mozilla.org/addon/fastie-olcek/) · [Fastieshop'u ziyaret edin](https://www.fastieshop.com/) · [Telegram duyuru kanalı](https://t.me/fastieshopcom)
 
 ![Fastie Ölçek arayüzü](assets/fastie-olcek-preview.png)
 
