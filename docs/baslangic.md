@@ -8,6 +8,7 @@ description: Fastie Ölçek'i kurma, açma ve ilk boyut karşılaştırmasını 
 
 Fastie Ölçek'i desteklenen tarayıcının uzantı mağazasından kurun:
 
+- [Google Chrome Web Store](https://chromewebstore.google.com/detail/naipbaoidoagbbamcljejgjnholbddpa)
 - [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/jlmbocielopnmeiipjmcggklfgjecoge)
 - [Firefox Add-ons](https://addons.mozilla.org/addon/fastie-olcek/)
 
