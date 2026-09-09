@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Fastie Ölçek
+  structure:
+    - type: space
+      key: fastie-olcek
+      title: Fastie Ölçek
+      path: rehber
+      default: true
+      content:
+        directory: ./
+        language: tr
