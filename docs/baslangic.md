@@ -16,6 +16,10 @@ Kurulumdan sonra araç çubuğundaki Fastie Ölçek simgesine tıklayın; karş�
 
 Tarayıcınız simgeyi doğrudan göstermiyorsa uzantılar menüsünü açıp Fastie Ölçek'i araç çubuğuna sabitleyebilirsiniz.
 
+## Dil seçimi
+
+1.4.0 sürümünden itibaren arayüz, tarayıcınızın diline otomatik olarak uyum sağlar. Tarayıcı dili Türkçeyse Türkçe; diğer dillerde İngilizce gösterilir.
+
 ## İlk karşılaştırma
 
 1. Ürünün **toplam uzunluğunu** santimetre cinsinden girin.

@@ -15,6 +15,7 @@ Fastie Ölçek, ürün ölçülerini günlük hayattan tanıdığınız nesneler
 - Girdiğiniz ürün ölçülerini seçtiğiniz referans nesneyle aynı ölçekte çizer.
 - Uzun, konik ve geniş ürün görünümleri sunar.
 - Ürün ile referans nesne arasındaki yükseklik oranını hesaplar.
+- Tarayıcı dili Türkçeyse Türkçe, diğer dillerde İngilizce arayüz gösterir.
 - Son tercihlerinizi yalnızca tarayıcınızdaki yerel depolamada saklar.
 
 ## Neler yapmaz?

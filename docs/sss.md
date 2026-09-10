@@ -18,7 +18,7 @@ Hayır. Ekran boyutu, çözünürlük ve yakınlaştırma seviyesi cihazdan ciha
 
 ## Verilerim bir sunucuya gönderiliyor mu?
 
-1.3.1 sürümünde girdiğiniz ölçüler ve tercihler yalnızca tarayıcının yerel depolamasında saklanır. Uzantı, bu işlev için haricî bir sunucu bağlantısı kullanmaz.
+1.4.0 sürümünde girdiğiniz ölçüler ve tercihler yalnızca tarayıcının yerel depolamasında saklanır. Uzantı, bu işlev için haricî bir sunucu bağlantısı kullanmaz.
 
 ## Fastie Ölçek ürün veya fiyat bulur mu?
 
@@ -31,4 +31,3 @@ Hayır. Otomatik ürün taraması, ürün önerisi ve fiyat karşılaştırması
 ## Bir hata buldum; nasıl bildirebilirim?
 
 Kullandığınız tarayıcıyı, uzantı sürümünü, girdiğiniz ölçüleri ve mümkünse ekran görüntüsünü ekleyerek [destek sayfasındaki](destek.md) kanallardan bize ulaşın.
-

@@ -4,7 +4,7 @@ description: Fastie Ölçek'te kullanılan günlük nesnelerin referans ölçül
 
 # Referans nesneler
 
-Fastie Ölçek'in 1.3.1 sürümündeki referans ölçüleri aşağıdadır.
+Fastie Ölçek'in 1.4.0 sürümündeki referans ölçüleri aşağıdadır.
 
 | Referans | Yükseklik | Genişlik |
 | --- | ---: | ---: |
@@ -15,4 +15,3 @@ Fastie Ölçek'in 1.3.1 sürümündeki referans ölçüleri aşağıdadır.
 | A4 kâğıt | 29,7 cm | 21 cm |
 
 İçecek kutusu ve su şişesi ölçüleri yaygın ambalaj örneklerine dayanır; üreticiye göre küçük farklılıklar olabilir. Telefon ölçüsü 6,1 inç ekran sınıfındaki örnek bir cihaza, banka kartı ise standart kart ölçülerine göre temsil edilir.
-
